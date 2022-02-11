@@ -13,7 +13,7 @@ from tensorflow.keras.callbacks import TensorBoard
 import matplotlib.pyplot as plt
 
 # Now we load the labels.csv that we created
-df = pd.read_csv('../images-Set1/labels.csv')
+df = pd.read_csv('static/datasets/images-Set1/labels.csv')
 #print(df.head(10))
 #print(df.tail(10))
 
@@ -25,7 +25,7 @@ df = pd.read_csv('../images-Set1/labels.csv')
 def get_file_name(filename):
     filename = 'images-Set1/' + filename
     file_name_images = xet.parse(filename).getroot().find('filename').text
-    file_path_images = os.path.join('../images-Set1', file_name_images)
+    file_path_images = os.path.join('static/datasets/images-Set1', file_name_images)
     return file_path_images
 
 # Create a list of all image file paths

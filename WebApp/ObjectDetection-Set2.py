@@ -14,11 +14,11 @@ from tensorflow.keras.models import Model
 
 
 # Now we load the labels.csv that we created
-df = pd.read_csv('../images-Set2/labels.csv')
+df = pd.read_csv('static/datasets/images-Set2/labels.csv')
 def get_file_name(filename):
     filename = 'images-Set2/' + filename
     file_name_images = xet.parse(filename).getroot().find('filename').text
-    file_path_images = os.path.join('../images-Set2/Images', file_name_images)
+    file_path_images = os.path.join('static/datasets/images-Set2/Images', file_name_images)
     return file_path_images
 
 # Create a list of all image file paths
