@@ -1,2 +1,5 @@
 /__pycache__/
 /.idea/
+/static/datasets/images-Set1/
+/static/datasets/images-Set2/
+/static/datasets/images-Set3-yolo/

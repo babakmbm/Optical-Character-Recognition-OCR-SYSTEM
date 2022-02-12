@@ -1,0 +1,6 @@
+train: static/datasets/images-Set3-yolo/train
+val: static/datasets/images-Set3-yolo/test
+nc: 1
+names: [
+         'license_plate'
+]
