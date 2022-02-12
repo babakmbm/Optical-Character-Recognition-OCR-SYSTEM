@@ -2,7 +2,47 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df29773c-aff6-4c4f-afab-e8c092d43d52" name="Default Changelist" comment="Keep Main Models">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/DataPreperation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/ObjectDetection-Set1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/ObjectDetection-Set2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/Prediction-pipeline.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/Prediction-testing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/Prediction.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/licenseApp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/skew_correction.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/static/easyOcrPredict/Cars50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/static/easyOcrPredict/N66.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/static/easyOcrPredict/test1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/static/easyOcrPredict/test3.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/static/easyOcrPredict/test5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/static/easyOcrPredict/test6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/static/models/Set1_object_detection_main.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/static/models/set1_object_detection_Model_15_07_2021.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/static/models/set1_object_detection_Model_20_07_2021_colab.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/static/models/set2_object_detection_Model_20_07_2021_colab.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/static/models/set2_object_detection_Model_20_07_2021_colab2.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/static/roi/Cars50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/static/roi/N66.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/static/roi/test1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/static/roi/test2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/static/roi/test3.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/static/roi/test4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/static/roi/test5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/static/roi/test6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/static/upload/Cars50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/static/upload/N66.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/static/upload/car3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/static/upload/test1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/static/upload/test2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/static/upload/test3.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/static/upload/test4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/static/upload/test5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/static/upload/test6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/templates/layout.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/templates/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,10 +64,6 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="KEEP" />
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/WebApp/ObjectDetection-Set1.py" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/WebApp/Prediction-testing.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -64,7 +100,7 @@
       <recent name="C:\Users\babakmbm\PycharmProjects\pythonProject2\Old" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager" selected="Python.DataPreperation">
     <configuration name="DataPreperation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -221,7 +257,8 @@
       <workItem from="1644489543473" duration="3061000" />
       <workItem from="1644570331869" duration="12888000" />
       <workItem from="1644613619623" duration="536000" />
-      <workItem from="1644663598588" duration="436000" />
+      <workItem from="1644663598588" duration="761000" />
+      <workItem from="1644665000239" duration="932000" />
     </task>
     <servers />
   </component>
@@ -243,19 +280,8 @@
     <MESSAGE value="Keep Main Models" />
     <option name="LAST_COMMIT_MESSAGE" value="Keep Main Models" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pythonProject2$licenseApp.coverage" NAME="licenseApp Coverage Results" MODIFIED="1641233105805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WebApp" />
-    <SUITE FILE_PATH="coverage/OCR_SYSTEM$DataPreperation.coverage" NAME="DataPreperation Coverage Results" MODIFIED="1644614009734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WebApp" />
+    <SUITE FILE_PATH="coverage/OCR_SYSTEM$DataPreperation.coverage" NAME="DataPreperation Coverage Results" MODIFIED="1644680799685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WebApp" />
   </component>
 </project>
