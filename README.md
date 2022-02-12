@@ -1,2 +1,2 @@
-# Optical-Character-Recognition-OCR-SYSTEM
-OCR system for licence plates flask application
+# Optical-Character-Recognition (OCR-SYSTEM)
+OCR flask application for licence plates - YOLOV5
